@@ -17,7 +17,7 @@ bikeshare.py
 
 ### CSV Files
 [1] Chicago.csv 
-[2] NEW_YORK_City.csv 
+[2] NEWYORKCity.csv 
 [3] Washington.csv
 
 ### Credits
