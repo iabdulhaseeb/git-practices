@@ -22,7 +22,7 @@ def get_filters():
     # TO DO: get user input for month (all, january, february, march, june)
 
 
-    # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
+    # TO DO: get user input for day of week (all, monday, tuesday, wednesday, sunday)
 
 
     print('-'*40)
